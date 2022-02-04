@@ -1,9 +1,10 @@
 package displayname_exercise;
-
 import java.util.Scanner;
 
-public class DisplayName 
+
+public class DisplayName
 {
+
     public static void main(String[] args) 
     {
         
